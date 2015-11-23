@@ -16,6 +16,13 @@ This vim configuration consists of some adjustments to .vimrc and the following 
 * NERD_commenter.vim: https://github.com/scrooloose/nerdcommenter
 * tasklist.vim (a patched version to allow toggle): http://www.vim.org/scripts/script.php?script_id=2607 / https://github.com/vim-scripts/TaskList.vim
 
+## Installation
+
+1. $ git clone 
+2. $ cd vim-config
+3. $ git submodule init
+4. $ git submodule update
+
 ## Shortcuts
 
 Most keyboard shortcuts are at their defaults. Here's what you will get with this .vimrc:
@@ -30,4 +37,4 @@ Most keyboard shortcuts are at their defaults. Here's what you will get with thi
 
 ### Notes
 
-You will need the patched fonts for airline to work properly, and a proper TERM. I'm using 'xterm-256color' and for the patched fonts, check vim-airline README (see above).
+* You will need the patched fonts for airline to work properly, and a proper TERM. I'm using 'xterm-256color' and for the patched fonts, check vim-airline README (see above).
