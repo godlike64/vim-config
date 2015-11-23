@@ -33,7 +33,7 @@ Most keyboard shortcuts are at their defaults. Here's what you will get with thi
 * Ctrl-N: nerdtree toggle 
 * F2: tasklist toggle
 * F3: tabman show/focus
-* <lead>mt: tabman show/hide
+* `<lead>`mt: tabman show/hide
 
 ### Notes
 
